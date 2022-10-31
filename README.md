@@ -1,4 +1,7 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/64253023/199010945-e6bed2ee-320f-463f-a61a-a1a99ef69ebc.png) 
+Hi, My name is Neul.
+I am self taught Full-Stack Developer (still learning) and programmer.
+
 
 <!--
 **neul-lw/neul-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
