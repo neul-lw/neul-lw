@@ -1,11 +1,12 @@
-```yaml
-![image](https://user-images.githubusercontent.com/64253023/199011908-8ad18231-64f2-45ac-b222-b358cbdf5249.png) 
 
+![image](https://user-images.githubusercontent.com/64253023/199011908-8ad18231-64f2-45ac-b222-b358cbdf5249.png) 
+```yaml
 name: 'Neul'
 education: ['Self Taught']
-currently_learning: ['Basic Front End, Django Framework']
+currently_learning: ['Essential Front End, Django Framework']
 additional_learning: ['GUIs with Tkinter, Web Scraping with Python']
-future_interests: ['Data Scientist, Machine Learning, Game Development']
+future_interests: ['Data Science, Machine Learning, Game Development']
+known_languages: ['Python, HTML, CSS, JAVASCRIPT, SQL']
 ```
 <!--
 **neul-lw/neul-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
