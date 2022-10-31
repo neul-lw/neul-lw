@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64253023/199010945-e6bed2ee-320f-463f-a61a-a1a99ef69ebc.png) 
+![image](https://user-images.githubusercontent.com/64253023/199011908-8ad18231-64f2-45ac-b222-b358cbdf5249.png) 
 Hi, My name is Neul.
 I am self taught Full-Stack Developer (still learning) and programmer.
 
