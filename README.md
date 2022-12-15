@@ -1,12 +1,14 @@
 
 ![image](https://user-images.githubusercontent.com/64253023/199011908-8ad18231-64f2-45ac-b222-b358cbdf5249.png) 
 ```yaml
+Hi! I'm Neul. I have interest in programming and want to become good at. Currently, I'm focusing on Web Development, I'm learning basic JavaScript and plan to become a Back-end Django Developer.
+But my interest more broad than becoming a Web Developer, I want to be able to use programming in my personal life to automate, develop, do experiments with stuff.
+```
+<!--
 name = 'Neul'
 education = ['Self Taught']
 currently_learning = ['Essential Front End', 'Django Framework']
 known_languages = ['Python', 'HTML', 'CSS', 'JAVASCRIPT', 'SQL', 'Lua']
-```
-<!--
 **neul-lw/neul-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
