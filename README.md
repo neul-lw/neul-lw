@@ -1,2 +1,2 @@
-i don't use github unless i have to
-go to https://codeberg.org/neul
+- i don't use github unless i have to
+- https://codeberg.org/neul
